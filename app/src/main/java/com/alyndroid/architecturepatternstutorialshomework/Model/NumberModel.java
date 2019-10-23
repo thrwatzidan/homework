@@ -1,4 +1,4 @@
-package com.alyndroid.architecturepatternstutorialshomework;
+package com.alyndroid.architecturepatternstutorialshomework.Model;
 
 public class NumberModel {
     private int firstNum, secondNum;
